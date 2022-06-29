@@ -1,15 +1,13 @@
 # DeepGA-Analisis-Exploratorio
 
-Se presenta una comparativa entre el algoritmo de neuro evolución
-DeepGA y redes neuronales convolucionales del estado del arte obteniendo
-para los dos conjuntos de imágenes MNIST y Fashion-MNIST mejores valores
-de precisión y una menor cantidad del número de parámetros con el uso de
-DeepGA obteniendo una precisión promedio 98.63±0.20% para el conjunto
-MNIST y de 90.80±0.53% para el conjunto Fashion-MNIST. Se observa una
-ventaja en el porcentaje de clasificación en ambos conjuntos mediante el uso de
-DeepGA correspondientes a valores que oscilan entre (0.29%-53.41%) para
-MNIST y de (5.76%-42.11%) para Fashion-MNIST. El número de parámetros
-obtenido para el conjunto MNIST fue de 24104±5188.54 y para FashionMNIST 56687.6±11929.7.
+Se presenta una comparativa entre el algoritmo de neuro evolución DeepGA y redes neuronales convolucionales del estado del arte obteniendo para los dos conjuntos de imágenes MNIST y Fashion-MNIST mejores valores de precisión y una menor cantidad del número de parámetros con el uso de DeepGA obteniendo una precisión promedio 98.63±0.20% para el conjunto MNIST y de 90.80±0.53% para el conjunto Fashion-MNIST. Se observa una ventaja en el porcentaje de clasificación en ambos conjuntos mediante el uso de DeepGA correspondientes a valores que oscilan entre (0.29%-53.41%) para MNIST y de (5.76%-42.11%) para Fashion-MNIST. El número de parámetros obtenido para el conjunto MNIST fue de 24104±5188.54 y para FashionMNIST 56687.6±11929.7.
+# Ejecución en Google Colaboratory
+Para llevar a cabo la evaluación del algoritmo DeepGA en los conjuntos de datos mencionados previamente, se llevaron a cabo 5 ejecuciones de 20 generaciones con los parámetros mostrados en la Tabla 1.  La ejecución se llevó a cabo en el entorno GPU de Google Colaboratory en su versión paga, la cual provee de una GPU Nvidia-P100 de 16 GB.  
+Para la evaluación de DeepGA se elige un porcentaje de 30% del conjunto de datos para hacer la validación y un 70% del mismo para llevar a cabo el entrenamiento. 
+
+Para poder llevar a cabo la ejecución se recomienda subir las carpetas DeepGA_Digits y DeepGA_Fashion a google Drive al igual que los archivos fashion.zip y  digits.zip, posteriormente subir las libretas de Jupyter y finalmente ejecutar las mismas. 
+
+- Un aspecto importante a considerar es el tiempo de ejecución por conjunto de datos, cada ejecución demora alrededor de 8 horas usando Google Colaboratory Pro con la tarjeta gráfica Nvidia-P600 de 16 GB de capacidad. 
 
 # Evaluación de DeepGA en MNIST y Fashion-MNIST
 ## MNIST
