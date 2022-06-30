@@ -2,13 +2,26 @@
 **Índice**   
 - 1. [DeepGA Análisis Exploratorio](#id1)
 -- [Resumen](#id1-a)
+
 - 2. [Ejecución](#ejec)
+
 - 3. [Evaluación de DeepGA](#id2)
+
+
 -- [MNIST](#id2-a)
+
 -- [Fashion-MNIST](#id2-b)
+
+
 - 4.[Comparativa del estado del arte](#id3)
+
+
 -- [MNIST](#id3-a)
+
+
 -- [Fashion-MNIST](#id3-b)
+
+
 - 5.[Referencias] (#id4)
 # DeepGA-Analisis-Exploratorio<a name="id1"></a>
 ## Resumen <a name="id1-a"></a>
