@@ -36,13 +36,13 @@ Para poder llevar a cabo la ejecución se recomienda subir las carpetas DeepGA_D
 ### Evaluación de DeepGA<a name="id2-bb"></a>
 ![image](https://user-images.githubusercontent.com/10681481/176562372-2fdd2b74-8742-4346-b8c9-35b6bfd0e741.png)
 
-#Comparativa contra modelos del estado del arte<a name="id3"></a>
+#Comparativa contra modelos del estado del arte <a name="id3"></a>
 ## MNIST<a name="id3-a"></a>
 ![image](https://user-images.githubusercontent.com/10681481/176562564-531dc8b8-cc86-4cc3-b551-1e671c7ee28f.png)
 ## Fashion-MNIST<a name="id3-b"></a>
 ![image](https://user-images.githubusercontent.com/10681481/176562596-baf410f8-72e7-47b8-9e7b-23affcd81539.png)
 
-# Referencias principales:<a name="ref"></a>
+# Referencias principales: <a name="ref"></a>
 
 - 1.	He, K., Zhang, X., Ren, S., & Sun, J. (2012). Deep Residual Learning for Image Recognition. Retrieved June 27, 2022, from https://image-net.org/challenges/LSVRC/2015/
 - 2.	Krizhevsky, A., & Inc, G. (2014). One weird trick for parallelizing convolutional neural networks.
