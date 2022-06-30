@@ -1,15 +1,15 @@
-#Índice de contenidos
+# Índice de contenidos
   
 - 1. [DeepGA Análisis Exploratorio](#id1)
-   - [Resumen](#id1-a)
+   - a. [Resumen](#id1-a)
 - 2. [Ejecución](#ejec)
 - 3. [Evaluación de DeepGA](#id2)
-  - [MNIST](#id2-a)
-  - [Fashion-MNIST](#id2-b)
+  - a.[MNIST](#id2-a)
+  - b. [Fashion-MNIST](#id2-b)
 - 4.[Comparativa del estado del arte](#id3)
-  - [MNIST](#id3-a)
-  - [Fashion-MNIST](#id3-b)
-- 5.[Referencias] (#id4)
+  - a. [MNIST](#id3-a)
+  - b. [Fashion-MNIST](#id3-b)
+- 5. [Referencias] (#ref) 
 
 
 # DeepGA-Analisis-Exploratorio<a name="id1"></a>
@@ -42,7 +42,8 @@ Para poder llevar a cabo la ejecución se recomienda subir las carpetas DeepGA_D
 ## Fashion-MNIST<a name="id3-b"></a>
 ![image](https://user-images.githubusercontent.com/10681481/176562596-baf410f8-72e7-47b8-9e7b-23affcd81539.png)
 
-# Referencias principales:<a name="id4"></a>
+# Referencias principales:<a name="ref"></a>
+
 - 1.	He, K., Zhang, X., Ren, S., & Sun, J. (2012). Deep Residual Learning for Image Recognition. Retrieved June 27, 2022, from https://image-net.org/challenges/LSVRC/2015/
 - 2.	Krizhevsky, A., & Inc, G. (2014). One weird trick for parallelizing convolutional neural networks.
 - 3.	Simonyan, K., & Zisserman, A. (2015). VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION. http://www.robots.ox.ac.uk/
