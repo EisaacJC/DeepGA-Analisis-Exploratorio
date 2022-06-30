@@ -6,7 +6,7 @@
 - 3. [Evaluación de DeepGA](#id2)
   - a.[MNIST](#id2-a)
   - b. [Fashion-MNIST](#id2-b)
-- 4.[Comparativa del estado del arte](#id3)
+- 4. [Comparativa del estado del arte](#id3)
   - a. [MNIST](#id3-a)
   - b. [Fashion-MNIST](#id3-b)
 - 5. [Referencias](#ref) 
