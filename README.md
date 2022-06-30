@@ -9,7 +9,7 @@
 - 4.[Comparativa del estado del arte](#id3)
   - a. [MNIST](#id3-a)
   - b. [Fashion-MNIST](#id3-b)
-- 5. [Referencias] (#ref) 
+- 5. [Referencias](#ref) 
 
 
 # DeepGA-Analisis-Exploratorio<a name="id1"></a>
